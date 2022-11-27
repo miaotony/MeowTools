@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "MeowTools",
+  "version": "1.0.0",
+  "description": "MeowTools",
+  "repository": "https://github.com/miaotony/MeowTools",
+  "type": "module",
+  "scripts": {
+    "build": "mkdir dist && scripts/md2html.sh README.md dist/index.html"
+  },
+  "author": "MiaoTony",
+  "license": "MIT",
+  "dependencies": {
+    "remark": "^14.0.2",
+    "remark-cli": "^11.0.0",
+    "remark-html": "^15.0.1"
+  }
+}
