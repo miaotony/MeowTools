@@ -76,7 +76,7 @@ MeowTools - maybe some useful tools for CTFers / programmers
 >
 > 一堆反弹 shell 的命令汇总
 >
-> <!-- 其实还有个 Reverse Shell as a Service -->
+> <!-- 其实还有个 Reverse Shell as a Service https://sh.miaotony.xyz/s/ -->
 
 
 
@@ -90,16 +90,16 @@ MeowTools - maybe some useful tools for CTFers / programmers
 
 ## Something Else / 彩蛋 🥚🐣
 
-- **Blog:** [https://miaotony.xyz](https://miaotony.xyz/?utm_source=meowtools)
-- [/bin/cat](https://cat.miaotony.xyz/?utm_source=meowtools)
-- [114514 数字论证器](https://calc114514.vercel.app/?utm_source=meowtools)
+- **Blog:** [https://miaotony.xyz](https://miaotony.xyz/?utm_source=meowtools)（欢迎来逛逛喵~
+- [/bin/cat](https://cat.miaotony.xyz/?utm_source=meowtools)（点一下图有惊喜
+- [114514 数字论证器](https://calc114514.vercel.app/?utm_source=meowtools)（跑
 - etc.
 
 
 
 ---
 
-大部分工具基本上是喵喵为了方便自己 self host 了一份
+大部分工具基本上是喵喵为了方便，self host 了一份
 
 版权归原作者所有，开源 License 请遵循原项目
 
