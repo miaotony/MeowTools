@@ -6,7 +6,7 @@
   "repository": "https://github.com/miaotony/MeowTools",
   "type": "module",
   "scripts": {
-    "build": "mkdir dist && scripts/md2html.sh README.md dist/index.html"
+    "build": "mkdir dist && bash scripts/md2html.sh README.md dist/index.html"
   },
   "author": "MiaoTony",
   "license": "MIT",
